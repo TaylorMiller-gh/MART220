@@ -1,1 +1,3 @@
 # Week 6
+
+There was a lot of trial and error this week with the Midi Controller. Javascript buttons have turned out to be useful for their setup and functionality, but incredibly stubborn otherwise. I spent a bit of time trying to figure out how to create them in a 'for' loop and couldn't quite pull it off. The keys will probably be a pseudo-button class, functioning based on the mouse position (which I'm not super happy about, but oh well.) The visualizer went well I suppose, and all the audio should function without a problem. I'll approach the 'Loop Buttons' last - they're a bit of a luxury and potentially too much for me to worry about. 
